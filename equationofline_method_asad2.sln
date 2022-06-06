@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "equationofline_method_asad2", "equationofline_method_asad2.csproj", "{409FBFA2-73B1-4EDB-BDBE-22C05819AACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409FBFA2-73B1-4EDB-BDBE-22C05819AACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409FBFA2-73B1-4EDB-BDBE-22C05819AACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409FBFA2-73B1-4EDB-BDBE-22C05819AACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409FBFA2-73B1-4EDB-BDBE-22C05819AACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CAA255F-0300-4518-B0B1-A91293EDFB9F}
+	EndGlobalSection
+EndGlobal
